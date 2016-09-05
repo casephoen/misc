@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/jcl-over-slf4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/mina-core-2.0.4.jar" sourcepath="C:/Users/topgame/.m2/repository/org/apache/mina/mina-core/2.0.9/mina-core-2.0.9-sources.jar"/>
+	<classpathentry kind="lib" path="lib/mina-integration-beans-2.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/mina-integration-jmx-2.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/mina-integration-ognl-2.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/mina-statemachine-2.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/ognl-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/spring-2.5.6.jar" sourcepath="C:/Documents and Settings/AB033663/.m2/repository/org/springframework/spring/2.5.6/spring-2.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
